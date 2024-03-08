@@ -1,5 +1,3 @@
-# -CSMRMR-DWESR
-
 # CSMRMR-DWESR
 
 ### Instruction for CSmrmr-DWESr.py  (The proposed feature selection method)
