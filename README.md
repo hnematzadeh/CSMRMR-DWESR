@@ -19,4 +19,6 @@ LINES 533-573: Graph generation and calculation of results
 
 ### Initial.py is used to calculate the measurement criteria before applying feature selection
 
+### Python libraries for regression feature selection.py is our implemetation of existing python libraries for regression feature selection
+
 ### Our datasets are private
